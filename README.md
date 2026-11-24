@@ -1,5 +1,11 @@
 # @versemate/bible-search
 
+[VerseMate](https://versemate.org) is a Bible reading app: every chapter of all 66 books with its text, a summary and a verse-by-verse explanation, on the web, iOS and Android.
+
+- Website: https://versemate.org
+- Read the Bible: https://app.versemate.org
+- Example chapters: [Genesis 1](https://app.versemate.org/bible/genesis/1), [Psalm 23](https://app.versemate.org/bible/psalms/23), [John 3](https://app.versemate.org/bible/john/3), [Romans 12](https://app.versemate.org/bible/romans/12)
+
 Bible search helpers for VerseMate, shared by `verse-mate-web` and
 `verse-mate-mobile` so the search box understands references the same way in
 both apps.
